@@ -1,0 +1,20 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Learn typescript with basic blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lomantic/typescript.git"
+  },
+  "keywords": [],
+  "author": "lomantic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lomantic/typescript/issues"
+  },
+  "homepage": "https://github.com/lomantic/typescript#readme"
+}
